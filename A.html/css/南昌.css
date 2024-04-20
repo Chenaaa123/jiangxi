@@ -1,0 +1,92 @@
+		*{
+			padding: 0%;
+			margin: 0%;
+		}
+		#top{
+			padding: 30px;
+			width: 100%;
+			background-color: gold;
+		}
+		#Q{
+			position: relative;
+			left: 90%;
+			top: 10%;
+		}
+		a{
+			text-decoration: none;
+		}
+		a:hover{
+			text-decoration: underline; color: yellow;
+		}
+		p{
+			font-family: 仿宋;
+			text-indent: 2em;
+			font-size: 22px;
+		}
+		.HX1{
+			margin: 0 auto;
+			font-family: 华文隶书;
+			font-size: 22px;
+			padding: 20px;
+			width: 2000px;
+			color: darkorange;
+			text-align: center;
+			}
+		#G{	
+				width: 1620px;
+				margin: 0 auto;
+			}
+		.d{
+				width: 1000px;
+				margin: 0 auto;
+			}
+		.G1{
+				float: left;
+				width: 450px;
+				height: 300px;
+				margin: 45px;
+				background-image: url('../img/N1.webp');
+				background-size: cover;
+			}
+		.G2{
+				float: left;
+				width: 450px;
+				height: 300px;
+				margin: 45px;
+				background-image: url('../img/N2.webp');
+				background-size: cover;
+			}
+		.G3{
+				float: left;
+				width: 450px;
+				height: 300px;
+				margin: 45px;
+				background-image: url('../img/N3.png');
+				background-size: cover;
+				
+			}
+		.G4{
+					float: left;
+					width: 450px;
+					height: 300px;
+					margin: 45px;
+					background-image: url('../img/N4.webp');
+					background-size: cover;
+					clear: both;
+				}
+		.G5{
+					float: left;
+					width: 450px;
+					height: 300px;
+					margin: 45px;
+					background-image: url('../img/N5.webp');
+					background-size: cover;
+				}
+		.G6{
+					float: left;
+					width: 450px;
+					height: 300px;
+					margin: 45px;
+					background-image: url('../img/N6.webp');
+					background-size: cover;
+				}
